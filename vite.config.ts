@@ -4,7 +4,7 @@ import { resolve } from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/history-content/',
+  base: '/archive-history-content/',
   resolve: {
     alias: [
       { find: '@', replacement: resolve(__dirname, 'src') },
