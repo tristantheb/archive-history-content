@@ -1,5 +1,5 @@
 {
-  "name": "history-content-site",
+  "name": "archive-history-content",
   "description": "Script to check the latest page changes manually between the desired language and the original language. ",
   "private": true,
   "version": "2.1.2",
